@@ -1,0 +1,7 @@
+C:\Users\nikos\source\repos\ISMArrays\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\nikos\source\repos\ISMArrays\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\nikos\source\repos\ISMArrays\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\nikos\source\repos\ISMArrays\Arrays1\obj\Debug\Arrays1.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\ISMArrays\Arrays1\obj\Debug\Arrays1.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMArrays\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\nikos\source\repos\ISMArrays\Arrays1\obj\Debug\Arrays1.pdb
